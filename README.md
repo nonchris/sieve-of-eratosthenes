@@ -6,3 +6,4 @@ Currently implemented in:
 * Rust
 * Java
 * Python
+* Ruby
