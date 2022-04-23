@@ -1,8 +1,10 @@
 import time
+# from functools import cache
 # from numba import njit
 
 # the performance bootst using this external lib is impressive
 # @njit
+# @cache
 def erasthenos(upper_bound):
     bool_array = [True] * upper_bound
     bool_array[0] = False
