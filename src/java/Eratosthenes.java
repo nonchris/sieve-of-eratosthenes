@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class Eratosthenes {
     public static List<Integer> erastothenes_sieve(int upper_limit){
         List<Integer> primes = new ArrayList<Integer>();
         primes.add(2);
